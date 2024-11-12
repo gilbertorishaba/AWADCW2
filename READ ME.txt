@@ -1,0 +1,6 @@
+Project Name: Chaapa Students Management System
+Database Name: chaapa_db.sql
+Admin: orishaba@gmail.com
+password:123
+user:gilbertorishaba@gmail.com
+password:12345678
